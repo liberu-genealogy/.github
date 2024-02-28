@@ -33,7 +33,7 @@ Our platform features user-friendly data tables that support comprehensive CRUD 
 
 Customization is key, and our forms are designed to be easily modified to fit your specific needs. Tailor your family tree to reflect the unique nuances and details of your lineage. Our flexible forms empower you to capture the rich history and connections that make your family story truly special.
 
-To get started install the backend located at https://github.com/liberu-genealogy/genealogy-laravel, then you can find the client application at https://github.com/liberu-genealogy/genealogy-nuxt. Download and explore the user-friendly interface and unleash the power of creating and discovering your family's heritage with ease.
+To get started install the software located at https://github.com/liberu-genealogy/genealogy-laravel, download and explore the user-friendly interface and unleash the power of creating and discovering your family's heritage with ease.
 
 Download our software today and embark on an enriching journey of tracing your roots and discovering the stories that connect generations.
 <!--/h-->
