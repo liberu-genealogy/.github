@@ -1,6 +1,13 @@
 ### Description
 Liberu Genealogy is an innovative open source project built using Laravel 11, PHP 8.3, Filament 3.2 and Livewire 3  aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.3 to create a cutting-edge platform for exploring and preserving ancestral heritage.
 
+### Genealogy related projects
+* https://github.com/liberu-genealogy/genealogy-laravel - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and LiveWire 3.
+* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel.
+* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.3
+* https://github.com/liberu-genealogy/laravel-dna - DNA reading and writing for Laravel.
+* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
+
 Welcome to Liberu Genealogy, our groundbreaking open-source project that brings the rich tapestry of family history to life. With the potent combination of Laravel 11, PHP 8.3, Livewire 3, and Filament 3, Liberu Genealogy redefines the landscape of family tree building, seamlessly integrating advanced features to create a comprehensive and user-centric experience.
 
 **Key Features:**
@@ -43,12 +50,6 @@ Download our software today and embark on an enriching journey of tracing your r
 ## Our Projects
 
 * https://github.com/liberusoftware/boilerplate - Boilerplate application using Laravel 11, PHP 8.3, Filament 3.2 and LiveWire 3.
-
-### Genealogy related projects
-* https://github.com/liberu-genealogy/genealogy-laravel - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and LiveWire 3.
-* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel.
-* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.3
-* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
 
 ### Other active projects
 * https://github.com/liberu-accounting
