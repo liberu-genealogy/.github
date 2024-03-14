@@ -1,0 +1,13 @@
+/* resources/css/custom.css */
+
+/* Add a CSS rule to make the custom.css file responsive */
+@media (max-width: 768px) {
+  /* Adjust the layout and styling of the elements for smaller screens */
+  /* Example rule: */
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  /* Add more rules as needed */
+}
