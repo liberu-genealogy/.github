@@ -1,5 +1,5 @@
 ### Description
-Liberu Genealogy is an innovative open source project built using Laravel 11, PHP 8.3, Filament 3.2 and Livewire 3  aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.3 to create a cutting-edge platform for exploring and preserving ancestral heritage.
+Liberu Genealogy is an innovative open source project built using Laravel 11, PHP 8.3, Filament 3.2 and Livewire 3, now featuring an improved design with responsive CSS, aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features, advancements, and responsive design to create a cutting-edge platform for exploring and preserving ancestral heritage. We've also enriched the home page with additional content to enhance the user experience.
 
 ### Genealogy related projects
 * https://github.com/liberu-genealogy/genealogy-laravel - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and LiveWire 3.
