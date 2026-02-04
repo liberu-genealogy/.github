@@ -15,17 +15,17 @@
 # [Demostration](https://familytree365.com)
 
 ### Description
-Liberu Genealogy is an innovative open source project built using Laravel 11, PHP 8.3, Filament 3.2 and Livewire 3.5 aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.3 to create a cutting-edge platform for exploring and preserving ancestral heritage.
+Liberu Genealogy is an innovative open source project built using Laravel 12, PHP 8.5, Filament 5.1 and Livewire 4.0 aimed at revolutionizing the field of genealogy and family history research. Our project combines the power of Laravel's robust framework with the latest features and advancements offered by PHP 8.3 to create a cutting-edge platform for exploring and preserving ancestral heritage.
 
 ### Genealogy related projects
-* https://github.com/liberu-genealogy/genealogy-laravel - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and Livewire 3.4
-* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel 11.
-* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.3
-* https://github.com/liberu-genealogy/laravel-dna - DNA reading and writing for Laravel 11.
-* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
-* https://github.com/liberu-genealogy/laravel-gramps-xml - GRAMPS XML processing for PHP 8.3 and Laravel 11
+* https://github.com/liberu-genealogy/genealogy-laravel - Family tree builder website written in Laravel 12 using PHP 8.5 with Filament 5.1 and Livewire 4.0
+* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel 11 & Laravel 12.
+* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.5
+* https://github.com/liberu-genealogy/laravel-dna - DNA reading and writing for Laravel 11 & Laravel 12.
+* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.5
+* https://github.com/liberu-genealogy/laravel-gramps-xml - GRAMPS XML processing for PHP 8.5 and Laravel 11 & Laravel 12
 
-Welcome to Liberu Genealogy, our groundbreaking open-source project that brings the rich tapestry of family history to life. With the potent combination of Laravel 11, PHP 8.3, Livewire 3.4 and Filament 3.2, Liberu Genealogy redefines the landscape of family tree building, seamlessly integrating advanced features to create a comprehensive and user-centric experience.
+Welcome to Liberu Genealogy, our groundbreaking open-source project that brings the rich tapestry of family history to life. With the potent combination of Laravel 12, PHP 8.5, Livewire 4.0 and Filament 5.1, Liberu Genealogy redefines the landscape of family tree building, seamlessly integrating advanced features to create a comprehensive and user-centric experience.
 
 ## Our Other Projects
 
